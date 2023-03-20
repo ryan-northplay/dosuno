@@ -1,4 +1,4 @@
-FROM node:14.21.3-bullseye-slim
+FROM node:19.8.1-bullseye-slim
 
 RUN mkdir -p /uno
 
