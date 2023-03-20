@@ -37,7 +37,7 @@
     "eslint-plugin-react": "^7.20.3",
     "eslint-plugin-react-hooks": "^4.0.8",
     "eslint-plugin-standard": "^4.0.1",
-    "git-commit-msg-linter": "^2.4.3",
+    "git-commit-msg-linter": "^4.0.0",
     "husky": "^4.3.7",
     "lerna": "^6.5.0",
     "lint-staged": "^10.2.10",
