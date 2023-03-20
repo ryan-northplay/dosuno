@@ -20,8 +20,8 @@
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "5.0.1",
-    "socket.io-client": "^2.3.0",
-    "socket.io-msgpack-parser": "^2.2.0",
+    "socket.io-client": "^4.0.0",
+    "socket.io-msgpack-parser": "^3.0.0",
     "typescript": "^3.7.5"
   },
   "devDependencies": {
