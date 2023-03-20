@@ -40,7 +40,7 @@
     "git-commit-msg-linter": "^2.4.3",
     "husky": "^4.3.7",
     "lerna": "^6.5.0",
-    "lint-staged": "^10.2.10",
+    "lint-staged": "^13.0.0",
     "typescript": "^3.9.2"
   },
   "workspaces": [
