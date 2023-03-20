@@ -29,7 +29,7 @@
     "@types/react-router-dom": "^5.1.5",
     "@types/socket.io-client": "^1.4.33",
     "@types/jest": "^24.9.1",
-    "@types/node": "^12.12.47",
+    "@types/node": "^18.0.0",
     "@types/react": "^16.9.41",
     "@types/react-dom": "^16.9.8",
     "@uno-game/protocols": "*"
