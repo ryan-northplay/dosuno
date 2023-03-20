@@ -20,7 +20,7 @@
     "@uno-game/protocols": "*",
     "nodemon": "^2.0.4",
     "sucrase": "^3.15.0",
-    "tsconfig-paths": "^3.9.0"
+    "tsconfig-paths": "^4.0.0"
   },
   "dependencies": {
     "@uno-game/error-handler": "*",
