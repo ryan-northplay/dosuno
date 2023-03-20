@@ -25,7 +25,7 @@
   "dependencies": {
     "@uno-game/error-handler": "*",
     "cors": "^2.8.5",
-    "dotenv": "^8.2.0",
+    "dotenv": "^16.0.0",
     "express": "^4.17.3",
     "ioredis": "^4.27.8",
     "module-alias": "^2.2.2",
