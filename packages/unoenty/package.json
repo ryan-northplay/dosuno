@@ -28,7 +28,7 @@
     "@types/lodash": "^4.14.157",
     "@types/react-router-dom": "^5.1.5",
     "@types/socket.io-client": "^1.4.33",
-    "@types/jest": "^24.9.1",
+    "@types/jest": "^29.0.0",
     "@types/node": "^12.12.47",
     "@types/react": "^16.9.41",
     "@types/react-dom": "^16.9.8",
