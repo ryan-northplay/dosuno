@@ -39,7 +39,7 @@
     "eslint-plugin-standard": "^4.0.1",
     "git-commit-msg-linter": "^2.4.3",
     "husky": "^4.3.7",
-    "lerna": "^6.5.0",
+    "lerna": "^6.5.1",
     "lint-staged": "^10.2.10",
     "typescript": "^3.9.2"
   },
