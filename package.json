@@ -24,7 +24,7 @@
     "ci:unoenty": "npm install && npm run install:unoenty && npm run bootstrap && npm run build:unoenty"
   },
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^3.7.0",
+    "@typescript-eslint/eslint-plugin": "^3.10.1",
     "@typescript-eslint/parser": "^3.7.0",
     "eslint": "^6.6.0",
     "eslint-config-standard": "^14.1.1",
